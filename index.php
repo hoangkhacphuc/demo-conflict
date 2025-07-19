@@ -16,7 +16,8 @@
     <label for="password">Password:</label>
     <input type="password" id="password" name="password" required>
     <br>
-    <button type="submit">Login</button>
+    <button type="submit">Submit</button>
+    <a href="#">Forgot Password</a>
 </form>
 </body>
 </html>
