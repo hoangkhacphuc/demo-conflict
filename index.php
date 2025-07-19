@@ -10,7 +10,7 @@
 <body>
 <!--    Form login    -->
 <form action="/" method="post">
-    <label for="username">Username:</label>
+    <label for="username">Phone:</label>
     <input type="text" id="username" name="username" required>
     <br>
     <label for="password">Pass:</label>
