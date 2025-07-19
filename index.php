@@ -17,6 +17,7 @@
     <input type="password" id="password" name="password" required>
     <br>
     <button type="submit">Login now</button>
+    <a href="#">Forgot Password</a>
     <a href="#">Register</a>
 </form>
 </body>
